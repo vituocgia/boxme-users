@@ -1,0 +1,19 @@
+# Python bytecode
+*.py[co]
+
+# Packaging files
+*.egg*
+build
+dist
+
+# Unit test / coverage reports
+/.coverage
+/.coverage.*
+/.tox
+
+# Editor temp files
+*.swp
+*~
+
+# Sublime Text
+*.sublime-workspace
